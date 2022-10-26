@@ -3,6 +3,10 @@
 ## Overview of the statistical analysis
 Using the visualization software Tableau, we examine citibike trends and perform analysis using Tableaus various data visualization analysis tools. We look at Citibike and its demographics from who rides by gender, what times are the highest and lowest in rides, and the bes times for bikes to be delievered adn repaired. We also are able to look at where the bikes are taken the most and where they end up using the story mode in Tableau public and the data/graphs we collected.
 
+## CLean the data before Tableau Analysis
+![Jupyter Notebook Delieverable 1](https://user-images.githubusercontent.com/107444840/197911226-e587aff0-e0f4-48de-a30a-5d614250031f.png)
+The data we collected and cleaned along with the checking of datatypes and the exporiting of the Dataframe as a csv in our files.
+
 ## Results
 
 ### Trips by weekday per Hour
