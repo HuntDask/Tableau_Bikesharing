@@ -31,7 +31,7 @@ The males are more dominant during these times we see in the above graph compare
 
 
 ## Summary
-Four our summary, we are able to see that males are more dominant than females in the citibike membership and riding as whole. We can see for the company that between 1 to 5 am is the best time for the repair people to go and fix the citibikes. The most popular times during the citibike members are between 6 to 10am and 5 to 8pm. The male population, most likely people working, are the most dominant population and target for the most citibikes to be used to gain the most profit for the company.
+For our summary, we are able to see that males are more dominant than females in the citibike membership and riding as whole. We can see for the company that between 1 to 5 am is the best time for the repair people to go and fix the citibikes. The most popular times during the citibike members are between 6 to 10am and 5 to 8pm. The male population, most likely people working, are the most dominant population and target for the most citibikes to be used to gain the most profit for the company.
 
 ### Other Interesting Analysis
 
