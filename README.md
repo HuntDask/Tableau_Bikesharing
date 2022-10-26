@@ -5,7 +5,7 @@ Using the visualization software Tableau, we examine citibike trends and perform
 
 ## Clean the data before Tableau Analysis
 ![Jupyter Notebook Delieverable 1](https://user-images.githubusercontent.com/107444840/197911226-e587aff0-e0f4-48de-a30a-5d614250031f.png)
-The data we collected and cleaned along with the checking of datatypes and the exporiting of the Dataframe as a csv in our files.
+The data we collected and cleaned along with the checking of datatypes and the exporting of the Dataframe as a csv in our files.
 
 ## Results
 
